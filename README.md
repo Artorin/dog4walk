@@ -1,5 +1,4 @@
-# dog4walk
-Business Plan 
+# dog4walk Business Plan 
 
 Samir
 Tarik
